@@ -8,10 +8,12 @@
 # Colaboradores
 <p>A atividade foi realizada em dupla.</p>
 <div>
-  **Giovanna Marques
-   <img src="https://media.licdn.com/dms/image/D4D03AQEkFQQ9e0mSng/profile-displayphoto-shrink_400_400/0/1718670329293?e=1727308800&v=beta&t=V1tpmCZoyTBSQbeSuL0guykv5t6kYQ2jw1wCVLeQODY">
-</div>
-<div>
-  **Fabiana Higino
-  <img src="https://media.licdn.com/dms/image/D4D03AQEzJRjVY2hZEQ/profile-displayphoto-shrink_400_400/0/1709038495642?e=1727308800&v=beta&t=UMKtI4J8tpw9Ra-bEEvpZnOO1LwDtvjCvNumoRqPmgM">
+  <div>
+    <h3>Giovanna Marques</h3>
+     <img src="https://media.licdn.com/dms/image/D4D03AQEkFQQ9e0mSng/profile-displayphoto-shrink_400_400/0/1718670329293?e=1727308800&v=beta&t=V1tpmCZoyTBSQbeSuL0guykv5t6kYQ2jw1wCVLeQODY">
+  </div>
+  <div>
+    <h3>Fabiana Higino</h3>
+    <img src="https://media.licdn.com/dms/image/D4D03AQEzJRjVY2hZEQ/profile-displayphoto-shrink_400_400/0/1709038495642?e=1727308800&v=beta&t=UMKtI4J8tpw9Ra-bEEvpZnOO1LwDtvjCvNumoRqPmgM">
+  </div>
 </div>
