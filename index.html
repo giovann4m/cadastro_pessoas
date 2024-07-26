@@ -1,30 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
     <title>Cadastro Funcionários</title>
 </head>
-
-<h2>Cadastro de Funcionários</h2>
-<form action="#">
-    <div>
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome" name="user.nome" />
+<body>
+    <div id="formulario">
+        <h2>Cadastro de Funcionários</h2>
+        <form action="#">
+            <div>
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="user.nome" />
+            </div>
+            <br>
+            <div>
+                <label for="datanasc">Data de Nascimento:</label>
+                <input type="text" id="datanasc" name="user.datanasc" />
+            </div>
+            <br>
+            <div>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="user.email" />
+            </div>
+            <br>
+            <div>
+                <label for="telefone">Telefone:</label>
+                <input type="text" id="telefone" name="user.telefone" />
+            </div>
+            <br>
+            <!-- add img -->
+            <div class="button">
+                <button type="submit">Concluir Cadastro</button>
+            </div>
+        </form>
     </div>
-    <br>
-    <div>
-        <label for="datanasc">Data de Nascimento:</label>
-        <input type="text" id="datanasc" name="user.datanasc" />
-    </div>
-    <br>
-    <div>
-        <label for="email">E-mail:</label>
-        <input type="email" id="email" name="user.email" />
-    </div>
-    <br>
-    <div>
-        <label for="telefone">Telefone:</label>
-        <input type="text" id="telefone" name="user.telefone" />
-    </div>
-    <br>
-    <div class="button">
-        <button type="submit">Concluir Cadastro</button>
-    </div>
-</form>
+</body>
+</html>

@@ -1,0 +1,33 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#formulario{
+    width: 500px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(144, 203, 242);
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2, form{
+    margin: 30px;
+}
